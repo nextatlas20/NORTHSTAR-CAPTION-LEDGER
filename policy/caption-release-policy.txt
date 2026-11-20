@@ -1,0 +1,4 @@
+NORTHSTAR CAPTION RELEASE SEAL
+Cutoff: 2149-08-05T23:59:59Z inclusive.
+The catalog and physical submission export are the sole evidence for this release.
+Apply the deterministic validation, completeness, selection, ordering, and publication rules in the task request.
